@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-> 👋 Yo! I’m **Fox **, also known as **Omar** — a multi-stack developer and bot wizard.
+> 👋 Yo! I’m **Fox**, also known as **Omar** — a multi-stack developer and bot wizard.
 
 - ⚙️ Owner of [FeFox - hosting](https://fefoxhosting.vercel.app/) (Hosting Solutions)  
 - 🌍 Profile: [guns.lol - mahmow600k](https://guns.lol/mahmow600k)
