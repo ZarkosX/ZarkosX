@@ -1,8 +1,24 @@
-<h1 align="left">Hi 👋! Omar9282jwee</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=+%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%B1+%F0%9F%9A%80;+%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%B1+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB;+%F0%9D%90%8E%F0%9D%90%B0%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%AB++%F0%9D%90%85%F0%9D%90%9E%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%B1+%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0;Minecraft+-+Bot+Hosting" alt="Typing SVG" />
+</h1>
 
-###
+## 🧠 About Me
 
-<p align="left">𝑶𝒘𝒏𝒆𝒓 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓<br>https://fox-developer.vercel.app<br>𝑶𝒘𝒏𝒆𝒓 𝑯𝒐𝒔𝒕𝒊𝒏𝒈<br>https://fox-hosting.vercel.app<br>𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆<br>https://guns.lol/mahmow600k</p>
+> 👋 Yo! I’m **Fox **, also known as **Omar** — a multi-stack developer and bot wizard.
+
+- ⚙️ Owner of [FeFox - hosting](https://fefoxhosting.vercel.app/) (Hosting Solutions)  
+- 🌍 Profile: [guns.lol - mahmow600k](https://guns.lol/mahmow600k)
+- 🚀 Fox - Developer: [𝐅𝐨𝐱 - 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://fox-developer.vercel.app)
+- ❄ Fox - hosting: [𝐅𝐨𝐱 - 𝐇𝐨𝐬𝐭𝐢𝐧𝐠](https://fox-hosting.vercel.app) 
+- 🧠 Skills: Python, Node.js, HTML, CSS, JS, , Discord, Minecraft
+- ➕ Project: Minecraft hosting - Discord Bot
+- ★ Pterodactyl Panel 10/10
+- ★ Puffer Panel 9/10
+- ★ Draco Panel 8/10
+- Dragon Panel 7/10
+- Skyport Panel 6/10
+- OverSee Panel  5/10 
+- Hydra Panel 4/10
 
 ###
 
