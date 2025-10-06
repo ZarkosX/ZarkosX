@@ -22,24 +22,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@ZarkosX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="54" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/1295669134071173193" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="54" alt="discord logo"  />
-  </a>
-  <a href="https://codesandbox.io/u/ZarkosX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="54" alt="codesandbox logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
